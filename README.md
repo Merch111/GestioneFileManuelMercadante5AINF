@@ -1,5 +1,6 @@
-MANUEL MERCADANTE 5AINF / PROGETTO GESTIONE FILE
-DOCENTE/I: MONICA CIUCHETTI-ILARIA FIORONI
+MANUEL MERCADANTE 5AINF / PROGETTO GESTIONE FILE      DOCENTE/I: MONICA CIUCHETTI-ILARIA FIORONI
+
+
 ISSUE 1:
 Scaricare il progetto disponibile su github, importarlo su Netbeans come nuovo progetto e modificarlo secondo le seguenti indicazioni:
 dopo aver letto il file user.json, chiedere all’utente di scegliere username e password;

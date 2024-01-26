@@ -1,4 +1,4 @@
-package gestionefile;
+package com.mycompany.gestionefilemanuelmercadante;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
